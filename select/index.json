@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Aphelion [Galbrena's Lullaby]（Original Game Soundtrack）",
+  "base_artist": "Wuthering Waves和Crywolf",
+  "createdAt": "2026-03-23T20:25:32.603619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aphelion [Galbrena's Lullaby]（Original Game Soundtrack）",
+      "artist": "Wuthering Waves,Crywolf",
+      "has_synced": true,
+      "path": "select/01_Aphelion_[Galbrena's_Lullaby](Original_Game_Soundtrack)_Wuthering_Waves,Crywolf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aphelion [Galbrena's Lullaby]（Original Game Soundtrack）",
+      "artist": "Crywolf, Wuthering Waves",
+      "has_synced": true,
+      "path": "select/02_Aphelion_[Galbrena's_Lullaby](Original_Game_Soundtrack)_Crywolf,_Wuthering_Waves.lrc"
+    }
+  ]
+}
